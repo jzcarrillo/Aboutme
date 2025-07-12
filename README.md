@@ -12,7 +12,7 @@
 
 # Hi, I'm John Christopher M. Carrillo | Azure | AWS | ITIL
 
- I'm a Solution Architect with hands-on experience building Event-driven, containerized and cloud-native systems. 
+ I'm a Solutions Architect with hands-on experience building Event-driven, containerized and cloud-native systems. 
 
  Projects & Focus Areas
 
@@ -30,7 +30,6 @@ Kubernetes-POC
 - Enforced HTTPS routing and CORS policy through Nginx Ingress Controller.
 - Automated the entire deployment process using PowerShell scripts for repeatable infrastructure setup.
 - Created automated stress testing scripts in PowerShell to simulate load and test system resilience.
----
 
  Features Implemented
 - Frontend–API–Backend architecture
@@ -44,4 +43,4 @@ Kubernetes-POC
 Connect with Me
 
 - LinkedIn - https://www.linkedin.com/in/john-christopher-carrillo-288364b9/
-- GitHub - (https://github.com/jzcarrillo
+- GitHub - https://github.com/jzcarrillo
